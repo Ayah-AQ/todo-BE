@@ -9,4 +9,4 @@ const taskModel = (sequelize, DataTypes) =>
   }
   );
 
-module.exports = taskModel;
+  module.exports = taskModel;
